@@ -3,7 +3,7 @@
 A simple helloworld project for EATL  apps assignment 1 , as well as first time in android native application development.
 
   - Orientation Support 
- -  few event listener
+  - few event listener
   - Animation
   - support for different DPI
   - intent
