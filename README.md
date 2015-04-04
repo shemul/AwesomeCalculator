@@ -3,25 +3,25 @@
 A simple helloworld project for EATL  apps assignment 1 , as well as first time in android native application development.
 
   - Orientation Support 
-  - OnClickListener
+ -  few event listener
   - Animation
   - support for different DPI
   - intent
 
+#  Screenshots
+
+![](/http://s13.postimg.org/cqkue40pj/device_2015_04_04_143500.png)
+![](/http://s9.postimg.org/c8e40oven/device_2015_04_04_143506.png)
 
 ### Version
 1.0.0
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 * [Java] - 
 * [Android SDK] - 19
 
 ### How to reuse
-
-You need Gulp installed globally:
 
 ```sh
 clone it 
@@ -34,15 +34,15 @@ import as a exsiting project from eclipse IDE
 
 Plugins i used 
 
-*
+* _TBA_
 
 
 
 ### Todo's
 
  - Write Tests
- - Rethink Github Save
- - Add Code Comments
+ - History tab
+ - Converter
  - Add Night Mode
 
 License
