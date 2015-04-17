@@ -25,23 +25,22 @@ A simple helloworld project for EATL  apps assignment 1 , as well as first time 
 
 ### Tech
 
-* [Java] - 
-* [Android SDK] - 19
+* Java
+* [Android SDK] - 22
 
 ### How to reuse
 
 ```sh
-clone it 
-import as a exsiting project from eclipse IDE
+clone it from android studio
 ```
 
 
 
 ### Plugins
 
-Plugins i used 
+Plugins I used
 
-* _TBA_
+-Not yet
 
 
 
